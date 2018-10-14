@@ -20,6 +20,9 @@
   "dependencies": {
     "axios": "^0.18.0",
     "body-parser": "^1.18.3",
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "scrollmonitor": "^1.2.4",
+    "vue": "^2.5.17",
+    "vue-resource": "^1.5.1"
   }
 }
